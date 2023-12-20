@@ -1,4 +1,4 @@
-<h1 align="center">Yo, I'm Tanmay </h1>
+<h1 align="center"> 👋 &nbsp; Yo, I'm Tanmay </h1>
 <h3 align="center">Open Source Contributor</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=TanmayDhobale&label=Profile%20views&color=0e75b6&style=flat" alt="TanmayDhobale" /> </p>
@@ -10,9 +10,9 @@
 
 - 🔭 I’m currently working on **DepressionHUB**
 
-- 🌱 I’m currently learning **Devops | Ruby**
+- 🌱 I’m currently learning ** Devops | Ruby **
 
-- 💬 Ask me about **Ruby, Rust, MERN, , Restaking**
+- 💬 Ask me about **Ruby, Rust, MERN, Devops , Solana **
 
 - 👷🏼‍♂️ [View My Contributions](https://github.com/TanmayDhobale/contributions)
 
@@ -24,6 +24,8 @@
 ### 🛠 &nbsp;Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=flat&logo=ruby&logoColor=white)
+![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
